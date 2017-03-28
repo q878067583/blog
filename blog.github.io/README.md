@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://github.com/q878067583/blog.github.io]
+地址：[https://github.com/q878067583/blog.github.io.git]
 
 ### 安装说明
 
