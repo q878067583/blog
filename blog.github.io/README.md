@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://github.com/q878067583/blog.github.io.git](http://yansu.org)
+地址：[https://github.com/q878067583/blog.github.io]
 
 ### 安装说明
 

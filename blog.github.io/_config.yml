@@ -1,10 +1,10 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 明明的博客
+email: 878067583@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  袁明明的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://github.com/q878067583/blog.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+# twitter: masonsuyan
+# weibo: suyan0830
+github: q878067583
+# instagram: suyan0830
+# linkedin: suyan0830
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -26,7 +26,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: Mingming
 
 # google analytics config
 ga:
